@@ -75,7 +75,7 @@ pip install transformers datasets torch
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/genz-hybrid-slang-generator.git
+git clone https://github.com/LasyaPriya27/Gen-Z-Hybrid-Slang-Text-Generator.git
 ```
 
 2. Upload the `genz_slang_5000.csv` to your environment.
